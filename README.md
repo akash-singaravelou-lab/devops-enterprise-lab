@@ -41,8 +41,11 @@ This repository contains a complete DevOps infrastructure built on Proxmox using
 | Networking | ✅ |
 | Docker Host | ✅ |
 | Docker | ⏳ |
+| Docker Engine | ✅ |
+| Docker Compose | ✅ |
 | Reverse Proxy | ⏳ |
 | Jenkins | ⏳ |
 | Monitoring | ⏳ |
 | Ansible | ⏳ |
 | Terraform | ⏳ |
+
