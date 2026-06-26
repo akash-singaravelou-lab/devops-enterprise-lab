@@ -31,3 +31,18 @@ This repository contains a complete DevOps infrastructure built on Proxmox using
 - Ansible
 - Terraform
 - GitHub
+
+## Current Infrastructure
+
+| Component | Status |
+|-----------|--------|
+| GitHub | ✅ |
+| Proxmox VE | ✅ |
+| Networking | ✅ |
+| Docker Host | ✅ |
+| Docker | ⏳ |
+| Reverse Proxy | ⏳ |
+| Jenkins | ⏳ |
+| Monitoring | ⏳ |
+| Ansible | ⏳ |
+| Terraform | ⏳ |
